@@ -1,0 +1,24 @@
+<template>
+  <div class="w-screen h-screen flex">
+    <!-- Side Bar -->
+    <div class="w-[200px] h-full bg-gray-200">
+      Side Bar
+    </div>
+
+    <div class="w-full h-full bg-gray-400">
+      main
+    </div>
+
+    <!-- Main -->
+  </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
